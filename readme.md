@@ -1,4 +1,77 @@
 
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+    <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+    <a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
+    <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
+    <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
+</div>
+
+<div align="center">
+    <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
+	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
+</div>
+
+<div align="center">
+    <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
+</div>
+
+## 🏢 My Organizations
+<div align="center" style="display: flex;">
+    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
+</div>
+<br/>
+<div align="center" style="display: flex;">
+    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
+</div>
+
+
+## 👻 A little about me...  
+I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+
+I actively participate in hackathons and **multiple times became the winner of international competitions** (Below you can see diplomas and certificates). 
+I am also included in the **state register of persons with outstanding abilities**.
+
+Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and algorithms, and also know how to work with big data. 
+
+At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
+
+```javascript
+const DIMFLIX = {
+    OS: ["Arch Linux"],
+    languages: {
+        highLevel: ["Python", "SQL"],
+        averageLevel: ["JavaScript"],
+        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
+    },
+    programming: {
+        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
+        frontend: ["HTML", "CSS/SCSS", "VueJS"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
+        machine-learning: ["vaex", "pandas", "opencv", "scikit-learn"],
+        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
+        bots: ["aiogram", "pyrogram", "vkbottle"],
+        devOps: ["Docker", "Nginx", "Ngrok"],
+        GUI: {
+            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
+            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
+        }
+    },
+    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+};
+```
+
+## ☕ Support Me
+If you would like to support me or any of my projects, you can send a donation to the following cryptocurrency wallets:
+
 | CryptoCurrencies | Address                                        |
 | ------------ | -------------------------------------------------- |
 | **TON**      | `UQB9qNTcAazAbFoeobeDPMML9MG73DUCAFTpVanQnLk3BHg3` |
