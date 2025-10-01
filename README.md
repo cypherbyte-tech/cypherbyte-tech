@@ -22,67 +22,6 @@
     <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
 </div>
 
-## 🏢 My Organizations
-<div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
-</div>
-<br/>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
-</div>
-
-
-## 👻 A little about me...  
-I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
-
-I actively participate in hackathons and **multiple times became the winner of international competitions** (Below you can see diplomas and certificates). 
-I am also included in the **state register of persons with outstanding abilities**.
-
-Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and algorithms, and also know how to work with big data. 
-
-At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
-
-```javascript
-const DIMFLIX = {
-    OS: ["Arch Linux"],
-    languages: {
-        highLevel: ["Python", "SQL"],
-        averageLevel: ["JavaScript"],
-        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
-    },
-    programming: {
-        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
-        frontend: ["HTML", "CSS/SCSS", "VueJS"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        machine-learning: ["vaex", "pandas", "opencv", "scikit-learn"],
-        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
-        bots: ["aiogram", "pyrogram", "vkbottle"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
-        GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
-        }
-    },
-    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
-};
-```
-
-## ☕ Support Me
-If you would like to support me or any of my projects, you can send a donation to the following cryptocurrency wallets:
-
-| CryptoCurrencies | Address                                        |
-| ------------ | -------------------------------------------------- |
-| **TON**      | `UQB9qNTcAazAbFoeobeDPMML9MG73DUCAFTpVanQnLk3BHg3` |
-| **TON / USDT(TON)**      | `UQB9qNTcAazAbFoeobeDPMML9MG73DUCAFTpVanQnLk3BHg3` |
-| **USDT (TRC20)**     | `TBTZ5RRMfGQQ8Vpf8i5N8DZhNxSum2rzAs`               |
-| **Ethereum** | `0x56e8bf8Ec07b6F2d6aEdA7Bd8814DB5A72164b13`       |
-| **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
-| **Tron**     | `TBTZ5RRMfGQQ8Vpf8i5N8DZhNxSum2rzAs`               |
-
-<details open>
-<summary><h2>🥇 Patents</h2></summary>
 <h2 align="center">👋 Hi there, I'm Pranesh</h2>
 
 <p align="center">
