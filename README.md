@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Pranesh</h2>
+<h2 align="center">👋 Hi there, I'm Richard</h2>
 
 <p align="center">
   🎓 B.Tech AI & ML | 🧠 AI + Web Developer | 🌐 Erode, India
