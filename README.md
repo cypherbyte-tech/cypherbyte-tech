@@ -1,7 +1,7 @@
-<h2 align="center">👋 Hi there, I'm Richard</h2>
+<h2 align="center">👋 Hi there, I'm software developer</h2>
 
 <p align="center">
-  🎓 B.Tech AI & ML | 🧠 AI + Web Developer | 🌐 Erode, India
+  🎓 B.Tech AI & ML | 🧠 AI + Web Developer | 🌐 Stockholm, Sweden
   🎓 Final Year B.Tech AI & ML | 🧠 AI & Web Developer | 🌐 Erode, India
 </p>
 
